@@ -1,0 +1,32 @@
+h1{background: #A569BD ;
+ color:#F7DC6F;
+ text-decoration:underline;
+ text-align: center;
+ text-indent:70px;
+ font-size: 500%
+   border-color:#A569BD ;
+   border-style:solid;}
+ h2{color:#F48FB1;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:center;
+   text-indent:50px;}
+  h3{color:#5DADE2;
+  text-align: center;
+text-decoration:underline;}
+
+img{height: 300px;
+width: 500px;
+object-fit: cover;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+body{background-image: url(https://ih1.redbubble.net/image.1154584759.3853/st,small,507x507-pad,600x600,f8f8f8.u2.jpg);
+background-repeat: no-repeat;
+background-position: center;}
+b {color:#73D3A1  ;
+  text-decoration:underline;
+  text-transform:capitalize;
+  text-align:center;
+  text-indent:70px;}}
